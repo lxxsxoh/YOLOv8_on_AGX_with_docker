@@ -17,38 +17,25 @@
    <pre>
      detection.py
    </pre>
-   - result
-   
-    detect.txt
 
   (2) classify
   <pre>
     classification.py
   </pre>
-  -result
-  
-  classify.txt
 
   (3) segmentation
   <pre>
     segment.py
   </pre> 
-  -result
-  
-  segment.txt
 
   (4) obb
   <pre>
     obb.py
   </pre>
-  -result
- 
-  obb.txt
 
   (5) pose
   <pre>
     pose.py
   </pre>
-  -result
+
   
-  pose.txt
