@@ -38,4 +38,7 @@
     pose.py
   </pre>
 
+1000번 반복에 대한 총 inference time
+-----------------
+![image](https://github.com/lxxsxoh/YOLOv8_on_AGX_with_docker/assets/136955006/e2fa359f-b1d5-4fe6-a752-58159841cd57)
   
