@@ -17,7 +17,6 @@
    <pre>
      detection.py
    </pre>
-
    - result
    
     detect.txt
@@ -26,7 +25,6 @@
   <pre>
     classification.py
   </pre>
-  
   -result
   
   classify.txt
@@ -34,8 +32,7 @@
   (3) segmentation
   <pre>
     segment.py
-  </pre>
-  
+  </pre> 
   -result
   
   segment.txt
@@ -44,7 +41,6 @@
   <pre>
     obb.py
   </pre>
-  
   -result
  
   obb.txt
@@ -53,7 +49,6 @@
   <pre>
     pose.py
   </pre>
-  
   -result
   
   pose.txt
