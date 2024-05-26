@@ -15,27 +15,27 @@
 -------------------------------------------
    (1) detection
    <pre>
-     detection.py
+     detection.py > detect.txt
    </pre>
 
   (2) classify
   <pre>
-    classification.py
+    classification.py > classify.txt
   </pre>
 
   (3) segmentation
   <pre>
-    segment.py
+    segment.py > segment.txt
   </pre> 
 
   (4) obb
   <pre>
-    obb.py
+    obb.py > obb.txt
   </pre>
 
   (5) pose
   <pre>
-    pose.py
+    pose.py > pose.txt
   </pre>
 
 1000번 반복에 대한 총 inference time
