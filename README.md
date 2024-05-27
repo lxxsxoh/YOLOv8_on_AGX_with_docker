@@ -47,4 +47,7 @@ jtop으로 측정한 GPU 사용량
 ![image](https://github.com/lxxsxoh/YOLOv8_on_AGX_with_docker/assets/136955006/02f89d78-0695-4d3c-9035-4a7ec9be59c3)
 
 추론 시 위 사진과 같이 계속 100%를 사용하는 것이 아닌, 일정하지 않은 GPU 사용량을 보임.
+
+
+![image](https://github.com/lxxsxoh/YOLOv8_on_AGX_with_docker/assets/136955006/3bae23e1-7d62-498c-a772-2ad8ea583033)
   
